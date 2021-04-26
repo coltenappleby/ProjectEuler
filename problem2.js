@@ -1,4 +1,3 @@
-let fibArray = []
 sum = 0
 
 let num1 = 0
@@ -11,4 +10,4 @@ while(num1 < 100) {
         sum += num2
     }
 }
-
+console.log(sum)
